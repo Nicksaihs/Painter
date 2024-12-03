@@ -13,7 +13,7 @@ private void 儲存檔案ToolStripMenuItem_Click(object sender, EventArgs e)
 
 
 ### 紅筆
-```csharp=
+```csharp
 // 創立 Pen 物件 p
 Pen p = new Pen(Color.Black, 3);
 
